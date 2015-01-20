@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="150px" height="150px" viewBox="0 0 150 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="ventes" sketch:type="MSLayerGroup" transform="translate(31.000000, 32.000000)">
+            <g id="Group" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-path" fill="#FFFFFF" x="50.572" y="18.069" width="12.693" height="55.412"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="0.692" y="35.729" width="12.693" height="37.753"></rect>
+                <rect id="Rectangle-path" fill="#FFFFFF" x="33.946" y="23.955" width="12.693" height="49.526"></rect>
+                <rect id="Rectangle-path" fill="#FF4343" x="17.318" y="29.842" width="12.694" height="43.64"></rect>
+                <path d="M73.492,0.519 L61.785,12.225 L67.199,12.225 L67.199,73.481 L79.893,73.481 L79.893,12.225 L85.309,12.225 L73.492,0.519 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

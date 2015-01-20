@@ -1,0 +1,50 @@
+body{
+	font-family: Open Sans;
+}
+
+h1, h2, h3 {
+	font-family: Montserrat;
+}
+
+.padded {
+	padding-top: 8em;
+	padding-bottom: 8em;
+}
+
+#banner {
+	background-image: url(images/fond.jpg);
+	height: 600px;
+	padding-top: 200px;
+	padding-left: 20px;
+}
+
+#banner h1 {
+	color: white;
+	font-size: 60px;
+}
+
+#banner p {
+	color: white;
+	font-weight: 300;
+	font-size: 30px;
+}
+
+#footer {
+	background-color: black;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	padding-left: 2em;
+}
+
+#footer a {
+	color: #cccccc;
+	font-size: 35px;
+}
+#footer a:hover {
+	color: white;
+	font-size: 35px;
+}
+
+#footer li{
+	width: 60px;
+}
